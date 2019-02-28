@@ -27,19 +27,19 @@ In your Microsoft Visual Basic for Application Window, go to:
 
 ## Extracting Data
 
-The real fun starts here. Go to :
+The real fun starts here. Go to :  
 1. Microsoft Excel --> Developer --> Macros *(Alt+F8)*
 
-2. Select --> NIR_Data_Extraction_Tool --> Run
+2. Select --> NIR_Data_Extraction_Tool --> Run  
 
-3. Select --> Your_CSV_Files.csv (Multiple Files Selection Available)
+3. Select --> Your_CSV_Files.csv (Multiple Files Selection Available)  
 ![](screenshots/README-9071875c.png)
 
-4. Select your destination cell
+4. Select your destination cell  
 ![](screenshots/README-e705ac03.png)
 
 
-5. Voila! Sit back, wait and let the macros do everything. You will receive a message box after successfully imported.
+5. Voila! Sit back, wait and let the macros do everything. You will receive a message box after successfully imported.  
 ![](screenshots/README-89538d1d.png)
 
 ### Modifying The Code For NIR Intensity
@@ -83,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Brillianda Sheravina - For inspiration by laziness
+* Brillianda Sheravina - For inspiration by love ❤
 * To anyone whose codes were used as reference.
